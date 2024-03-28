@@ -1,0 +1,8 @@
+<resources>
+    <style name="Base.Theme.GoSportTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.GoSportTest" parent="Base.Theme.GoSportTest" />
+</resources>

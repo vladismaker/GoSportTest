@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoSportTest</string>
+    <string name="text_label_1">Пицца</string>
+    <string name="text_label_2">Комбо</string>
+    <string name="text_label_3">Десерты</string>
+    <string name="text_label_4">Напитки</string>
+    <string name="empty_here">Тут пусто</string>
+    <string name="moscow">Москва</string>
+</resources>

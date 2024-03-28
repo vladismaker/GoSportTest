@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#222831</color>
+    <color name="black2">#AAAAAD</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="category_select_text">#FD3A69</color>
+    <color name="category_unselect_text">#C3C4C9</color>
+    <color name="category_select_back">#33FD3A69</color>
+    <color name="category_unselect_back">#FFFFFF</color>
+</resources>
